@@ -234,7 +234,7 @@ a:hover {
 
 @media screen and (max-height: 800px){
     .main {
-        height: 110%;
+        height: 1200px;
     }
 
     .content {
