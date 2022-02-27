@@ -54,6 +54,8 @@ body {
 }
 
 .content {
+    margin-top: auto;
+    margin-bottom: auto;
     width: 25em;
     height: 25em; 
 }
@@ -162,6 +164,7 @@ a:hover {
     .content {
         width: 20em;
         height: 20em; 
+
     }
 } 
 
