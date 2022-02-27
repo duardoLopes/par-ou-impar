@@ -75,6 +75,15 @@ body {
     flex-direction: column;
 }
 
+h2 {
+    margin: 10px;
+}
+
+p {
+    margin: 10px;
+}
+
+
 .input {
     background-color: rgba(255, 255, 255, .5);
     padding: 10px;
